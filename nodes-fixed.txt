@@ -1,0 +1,10 @@
+saas.sin.fan:443#日本-固定-01$sstp://vpn:vpn@vpn390088297.opengw.net:995
+www.mfyx.cn:443#日本-固定-02$sstp://vpn:vpn@vpn213335463.opengw.net:1601
+cf.nyanya.moe:443#日本-固定-03$sstp://vpn:vpn@vpn859641833.opengw.net:1365
+cf.877774.xyz:443#日本-固定-04$sstp://vpn:vpn@vpn341881580.opengw.net:1555
+cdn.204910.best:443#日本-固定-05$sstp://vpn:vpn@vpn765536599.opengw.net:1797
+cdn.ctn32.us.kg:443#韩国-固定-01$sstp://vpn:vpn@vpn738948201.opengw.net:995
+p.etime.vip:443#韩国-固定-02$sstp://vpn:vpn@vpn637208406.opengw.net:995
+cmcc.vvvv.ee:443#韩国-固定-03$sstp://vpn:vpn@vpn458579437.opengw.net:995
+cfsaas.080112.xyz:443#韩国-固定-04$sstp://vpn:vpn@vpn247592511.opengw.net:995
+cdn.aneko.ink:443#韩国-固定-05$sstp://vpn:vpn@vpn116379673.opengw.net:1242

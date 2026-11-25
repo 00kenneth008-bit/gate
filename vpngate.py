@@ -892,6 +892,13 @@ def write_outputs(
     atomic_write_text(html_path, html)
     nodes_text = build_nodes_text(data, edge_hosts, cfg)
     atomic_write_text(nodes_path, nodes_text)
+    # 固定池 / 轮换池是仓库根目录的手工维护文件：每次发布时原样带进 Pages，
+    # 这样小火箭订阅地址不变，名字固定，只有每周更新脚本改动轮换池时才变。
+    for static_name in ("nodes-fixed.txt", "nodes-weekly.txt"):
+        static_path = os.path.join(REPO_DIR, static_name)
+        if os.path.exists(static_path):
+            with open(static_path, "r", encoding="utf-8") as handle:
+                atomic_write_text(os.path.join(cfg.public_dir, static_name), handle.read())
     return data_path, html_path, nodes_path, nodes_text
 
 
