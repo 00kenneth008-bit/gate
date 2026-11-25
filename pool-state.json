@@ -269,15 +269,15 @@
    "clean": true
   },
   {
-   "host": "vpn490646352.opengw.net",
-   "port": 995,
-   "country": "KR",
-   "exit_ip": "118.36.86.191",
-   "org": "Korea Telecom",
+   "host": "vpn290313208.opengw.net",
+   "port": 1997,
+   "country": "CA",
+   "exit_ip": "142.198.116.23",
+   "org": "Bell Canada",
    "is_dc": false,
-   "latency_ms": 3787,
-   "score": 718797,
-   "link": "sstp://vpn:vpn@vpn490646352.opengw.net:995",
+   "latency_ms": 1334,
+   "score": 1009395,
+   "link": "sstp://vpn:vpn@vpn290313208.opengw.net:1997",
    "proxy": false,
    "hosting": false,
    "clean": true

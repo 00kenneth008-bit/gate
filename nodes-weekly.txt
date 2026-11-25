@@ -7,4 +7,4 @@ cdn.ctn32.us.kg:443#韩国-轮换-06$sstp://vpn:vpn@vpn416596627.opengw.net:995
 p.etime.vip:443#日本-轮换-07$sstp://vpn:vpn@vpn115558056.opengw.net:1472
 cmcc.vvvv.ee:443#日本-轮换-08$sstp://vpn:vpn@vpn780850191.opengw.net:1837
 cfsaas.080112.xyz:443#泰国-轮换-09$sstp://vpn:vpn@vpn904275805.opengw.net:1467
-cdn.aneko.ink:443#韩国-轮换-10$sstp://vpn:vpn@vpn490646352.opengw.net:995
+cdn.aneko.ink:443#加拿大-轮换-10$sstp://vpn:vpn@vpn290313208.opengw.net:1997
