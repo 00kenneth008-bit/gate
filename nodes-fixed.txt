@@ -3,8 +3,8 @@ www.mfyx.cn:443#日本-固定-02$sstp://vpn:vpn@vpn774927062.opengw.net:1776
 cf.nyanya.moe:443#美国-固定-01$sstp://vpn:vpn@vpn197493440.opengw.net:1258
 cf.877774.xyz:443#日本-固定-03$sstp://vpn:vpn@vpn945367046.opengw.net:1857
 cdn.204910.best:443#日本-固定-04$sstp://vpn:vpn@vpn341881580.opengw.net:1555
-cdn.ctn32.us.kg:443#韩国-固定-01$sstp://vpn:vpn@vpn326464611.opengw.net:995
-p.etime.vip:443#韩国-固定-02$sstp://vpn:vpn@vpn853978724.opengw.net:995
-cmcc.vvvv.ee:443#韩国-固定-03$sstp://vpn:vpn@vpn270057496.opengw.net:995
-cfsaas.080112.xyz:443#韩国-固定-04$sstp://vpn:vpn@vpn527273112.opengw.net:995
-cdn.aneko.ink:443#韩国-固定-05$sstp://vpn:vpn@vpn487652659.opengw.net:1275
+cdn.ctn32.us.kg:443#韩国-固定-01$sstp://vpn:vpn@vpn499499703.opengw.net:995
+p.etime.vip:443#韩国-固定-02$sstp://vpn:vpn@vpn679032476.opengw.net:995
+cmcc.vvvv.ee:443#韩国-固定-03$sstp://vpn:vpn@vpn402044879.opengw.net:995
+cfsaas.080112.xyz:443#韩国-固定-04$sstp://vpn:vpn@vpn192568087.opengw.net:995
+cdn.aneko.ink:443#韩国-固定-05$sstp://vpn:vpn@vpn754862961.opengw.net:995
